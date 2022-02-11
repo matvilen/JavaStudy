@@ -8,8 +8,6 @@ pavel.stepanov@bmstu.ru
 Java, Scala
 экзамен
 
-через github
-
 10 работ + отчеты
 1 репозиторий
 
