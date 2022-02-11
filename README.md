@@ -1,7 +1,7 @@
 # BigDataLanguages
 Practice tasks
 
-Степанов Павел валерьевич
+Степанов Павел Валерьевич
 
 pavel.stepanov@bmstu.ru
 
